@@ -37,5 +37,5 @@ Web app creation using **Streamlit**
     streamlit run app.py
     ```
 
-This will start the Streamlit app, and you will be able to interact with the chatbot in your web browser.
+This will start the Streamlit app, and we will be able to interact with the chatbot in your web browser.
 
